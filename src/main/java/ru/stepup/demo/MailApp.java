@@ -9,6 +9,7 @@ public class MailApp {
         for (int i = 0; i < 3; i++) {
             System.out.println(8);
             System.out.println(7);
+            System.out.println(8);
         }
 
     }
