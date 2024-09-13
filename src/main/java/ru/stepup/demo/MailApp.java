@@ -7,8 +7,8 @@ public class MailApp {
         doSomething();
         System.out.println(2);
         for (int i = 0; i < 3; i++) {
-            System.out.println(1);
-            System.out.println(2);
+            System.out.println(8);
+            System.out.println(7);
         }
 
     }
